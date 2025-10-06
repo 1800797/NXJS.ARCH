@@ -1,7 +1,8 @@
 # NEXTJS PURE CLEAN ARCHITECTURE
 
 OUR TEAM ZB
-ONLINE DOCS [HERE](https://zonblade.github.io/nextjs-clean-architecture/) 3
+ONLINE DOCS [HERE](https://zonblade.github.io/nextjs-clean-architecture/)
+---
 
 <p align="left">
   <a href="https://www.paypal.me/xmorinori">
@@ -11,3 +12,5 @@ ONLINE DOCS [HERE](https://zonblade.github.io/nextjs-clean-architecture/) 3
     <img src="https://img.shields.io/badge/QRIS-DONATE-red?logo=alipay&logoColor=white&style=flat-square" alt="QRIS Donate"/>
   </a>
 </p>
+
+---
